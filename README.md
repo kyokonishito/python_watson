@@ -20,10 +20,8 @@ pythonからWatson APIを呼び出すサンプルです。
 Watson StudioでProjectの画面を表示してください。
 Lab１からLab4まで順に実施してください（4でLab情報を指定します）。
 
-### 1. 上のメニューから`Add to project`をクリック
-します。<br/>
+### 1. 上のメニューから`Add to project`をクリックします。<br/>
 <img src="images/add_to_project.png" width="90%">
-
 
 ### 2.  表示された`Choose asset type`から`Notebook`をクリックします。<br/>
 <img src="images/choose_asset_type.png" width="90%">
@@ -31,7 +29,8 @@ Lab１からLab4まで順に実施してください（4でLab情報を指定し
 ### 3.  表示された`New notebook`から`From URL`をクリックします。<br/>
 <img src="images/from_url.png" width="90%">
 
-### 4. `Name` と `Notebook URL`にそれぞれ以下の値をハンズオンするLabに応じてコピペします。<br/>
+### 4. Labの内容の指定
+`Name` と `Notebook URL`にそれぞれ以下の値をハンズオンするLabに応じてコピペします。<br/>
 
 #### Lab1: Language Translator 翻訳
 Name: `Lab1` <br/>
@@ -51,21 +50,26 @@ Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/mast
 Name: `Lab4`<br/>
 Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/master/notebooks/Lab4.ipynb`
 
-### 5. `Select runtime`に`python3.5`が入っているものを選択して(通常はデフォルト値のままでよい)、`Create Notebook`をクリック<br/>
+### 5. runtimeの指定とNotebookの作成
+`Select runtime`に`python3.5`が入っているものを選択して(通常はデフォルト値のままでよい)、`Create Notebook`をクリック<br/>
 <img src="images/select_runtime.png" width="90%">
 
-### 6. Notebookが開きますので、ロードされたNotebookの指示にしたがってハンズオンを進めてください。
+### 6. Notebookの実行
+Notebookが開きますので、ロードされたNotebookの指示にしたがってハンズオンを進めてください。
 
-### 7. 全て終わったら、右上のSaveアイコンをクリックし、次に右上に表示されている現在のプロジェクトの名の文字をクリックしてプロジェクトの画面に戻ってください。<br/>
+### 7. 完了
+全て終わったら、右上のSaveアイコンをクリックし、次に右上に表示されている現在のプロジェクトの名の文字をクリックしてプロジェクトの画面に戻ってください。<br/>
 <img src="images/comp_lab.png" width="90%">
 
-### 8. 次のLabがあれば1に戻って再度Notebookを作成します。
+### 8. 次のLabの実行
+次のLabがあれば1に戻って再度Notebookを作成します。
 
 >### Hint: 保存したNotebookを呼び出すには?
 >Projectの画面で`Assets`タブをクリックして表示されたページの、`Notebook`の見出しの下にこれまで作成したNotebooｋのリストが表示されています。呼び出したいNotebooｋの名前をクリックするとそのNotebooｋが開きます。<br/>
 実行や編集したい場合は、Notebookが開いた後、上部にある鉛筆アイコンをクリックして、`Edit Mode`にしてください。あるいは`Notebook`のList上で鉛筆アイコンを直接クリックしてください。<br/>
-<img src="images/edit1.png" width="90%">
-<img src="images/edit2.png" width="90%">
+><img src="images/edit2.png" width="90%">
+><img src="images/edit1.png" width="90%">
+
 
 
 ## オプションハンズオン
