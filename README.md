@@ -16,6 +16,7 @@ pythonからWatson APIを呼び出すサンプルです。
 4. Watson Studio: notebookの指示にしたがってAPIを実行する<br/>
 　      - 2で取得したAPI KEYとURLを使用
 
+<a name="HandsOn"></a>
 ## ハンズオン
 Watson StudioでProjectの画面を表示してください。
 Lab１からLab4まで順に実施してください（4でLab情報を指定します）。
