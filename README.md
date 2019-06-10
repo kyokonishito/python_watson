@@ -2,7 +2,7 @@
 pythonからWatson APIを呼び出すサンプルです。
 
 ## ハンズオンの前提条件
-ハンズオン資料の以下が完了している必要があります：　
+[ハンズオン資料](https://speakerdeck.com/kyokonishito/watson-studio-watson-api-hands-on)の以下が完了している必要があります：　
 - Watson Studioのセットアップ
 - Watson Studioの起動
 - Projectの作成
@@ -19,6 +19,7 @@ pythonからWatson APIを呼び出すサンプルです。
 ## ハンズオン
 Watson StudioでProjectの画面を表示してください。
 Lab１からLab4まで順に実施してください（4でLab情報を指定します）。
+> Watson StudioでProjectの画面表示ができていない場合は[ハンズオン資料](https://speakerdeck.com/kyokonishito/watson-studio-watson-api-hands-on)を参照して表示せてください。
 
 ### 1. 上のメニューから`Add to project`をクリックします。<br/>
 <img src="images/add_to_project.png" width="90%">
@@ -41,7 +42,7 @@ Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/mast
 Name: `Lab2`<br/>
 Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/master/notebooks/Lab2.ipynb`
 
-#### Lab3: isual Recognition 画像認識
+#### Lab3: Visual Recognition 画像認識
 Name: `Lab3`<br/>
 Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/master/notebooks/Lab3.ipynb`
 
