@@ -19,7 +19,7 @@ pythonからWatson APIを呼び出すサンプルです。
 <a name="HandsOn"></a>
 ## ハンズオン
 Watson StudioでProjectの画面を表示してください。
-Lab１からLab4まで順に実施してください（4でLab情報を指定します）。
+Lab１からLab3まで順に実施してください（4でLab情報を指定します）。
 > Watson StudioでProjectの画面表示ができていない場合は[ハンズオン資料](https://speakerdeck.com/kyokonishito/watson-studio-watson-api-hands-on)を参照して表示せてください。
 
 ### 1. 上のメニューから`Add to project`をクリックします。<br/>
@@ -47,11 +47,6 @@ Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/mast
 Name: `Lab3`<br/>
 Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/master/notebooks/Lab3.ipynb`
 
-
-#### Lab4: Personality Insights テキストから筆者の性格を推定する
-Name: `Lab4`<br/>
-Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/master/notebooks/Lab4.ipynb`
-
 ### 5. runtimeの指定とNotebookの作成
 `Select runtime`に`python3.5`が入っているものを選択して(通常はデフォルト値のままでよい)、`Create Notebook`をクリック<br/>
 <img src="images/select_runtime.png" width="90%">
@@ -75,6 +70,7 @@ Notebookが開きますので、ロードされたNotebookの指示にしたが�
 
 
 ## オプションハンズオン
-Watson APIではありませんが余力があればWatson Machine Learningにも触れてみましょう。2019年6月5日に開催したDeveloper Dojo Shibuyaでのハンズオン資料です：
+余力があればWatson APIではありませんがWatson Studioつながりで、Watson Machine Learningにも触れてみましょう。コーディングなしで機械学習モデルが作成できます。
+2019年6月5日に開催したDeveloper Dojo Shibuyaでのハンズオン資料です：
 ### [Watson Studioで機械学習ハンズオン](https://speakerdeck.com/kyokonishito/ml-handson-with-watson-studio)
 
