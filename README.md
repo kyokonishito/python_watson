@@ -68,7 +68,7 @@ Notebookが開きますので、ロードされたNotebookの指示にしたが�
 ><img src="images/edit1.png" width="90%">
 
 
-
+<a name="OptionHandsOn"></a>
 ## オプションハンズオン
 余力があればWatson APIではありませんがWatson Studioつながりで、Watson Machine Learningにも触れてみましょう。コーディングなしで機械学習モデルが作成できます。
 2019年6月5日に開催したDeveloper Dojo Shibuyaでのハンズオン資料です：
