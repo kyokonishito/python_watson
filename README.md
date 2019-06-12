@@ -54,12 +54,13 @@ Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/mast
 ### 6. Notebookの実行
 Notebookが開きますので、ロードされたNotebookの指示にしたがってハンズオンを進めてください。
 
+<a name="LabComptele"></a>
 ### 7. 完了
 全て終わったら、右上のSaveアイコンをクリックし、次に右上に表示されている現在のプロジェクトの名の文字をクリックしてプロジェクトの画面に戻ってください。<br/>
 <img src="images/comp_lab.png" width="90%">
 
 ### 8. 次のLabの実行
-次のLabがあれば1に戻って再度Notebookを作成します。
+次のLabがあれば[1に戻って](#HandsOn)再度Notebookを作成します。
 
 >### Hint: 保存したNotebookを呼び出すには?
 >Projectの画面で`Assets`タブをクリックして表示されたページの、`Notebook`の見出しの下にこれまで作成したNotebooｋのリストが表示されています。呼び出したいNotebooｋの名前をクリックするとそのNotebooｋが開きます。<br/>
