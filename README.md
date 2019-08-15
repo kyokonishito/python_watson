@@ -2,8 +2,8 @@
 pythonからWatson APIを呼び出すサンプルです。
 
 ## ハンズオンの前提条件
-[ハンズオン資料](https://speakerdeck.com/kyokonishito/watson-studio-watson-api-hands-on)の以下が完了している必要があります：　
-- Watson Studioのセットアップ
+[Watson Studio サービスとProjectの作成](https://qiita.com/nishikyon/private/ba698b638300848b746e)の以下が完了している必要があります：　
+- Watson Studio サービスの作成
 - Watson Studioの起動
 - Projectの作成
 
@@ -20,7 +20,7 @@ pythonからWatson APIを呼び出すサンプルです。
 ## ハンズオン
 Watson StudioでProjectの画面を表示してください。
 Lab１からLab3まで順に実施してください（4でLab情報を指定します）。
-> Watson StudioでProjectの画面表示ができていない場合は[ハンズオン資料](https://speakerdeck.com/kyokonishito/watson-studio-watson-api-hands-on)を参照して表示せてください。
+> Watson StudioでProjectの画面表示ができていない場合は[Watson Studio サービスとProjectの作成](https://qiita.com/nishikyon/private/ba698b638300848b746e#4-おまけログイン後作成済projectの表示方法)を参照して表示せてください。
 
 ### 1. 上のメニューから`Add to project`をクリックします。<br/>
 <img src="images/add_to_project.png" width="90%">
@@ -48,7 +48,7 @@ Name: `Lab3`<br/>
 Notebook URL: `https://raw.githubusercontent.com/kyokonishito/python_watson/master/notebooks/Lab3.ipynb`
 
 ### 5. runtimeの指定とNotebookの作成
-`Select runtime`に`python3.5`が入っているものを選択して(通常はデフォルト値のままでよい)、`Create Notebook`をクリック<br/>
+`Select runtime`に`python3`が入っているもの(python3.6など)を選択して(通常はデフォルト値のままでよい)、`Create Notebook`をクリック<br/>
 <img src="images/select_runtime.png" width="90%">
 
 ### 6. Notebookの実行
@@ -71,6 +71,7 @@ Notebookが開きますので、ロードされたNotebookの指示にしたが�
 
 <a name="OptionHandsOn"></a>
 ## オプションハンズオン
+(下記はModel Biulder機能が廃止になったため実施不可です。更新予定です。)<br/>
 余力があればWatson APIではありませんがWatson Studioつながりで、Watson Machine Learningにも触れてみましょう。コーディングなしで機械学習モデルが作成できます。
 2019年6月5日に開催したDeveloper Dojo Shibuyaでのハンズオン資料です：
 ### [Watson Studioで機械学習ハンズオン](https://speakerdeck.com/kyokonishito/ml-handson-with-watson-studio)
