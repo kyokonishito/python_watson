@@ -67,12 +67,3 @@ Notebookが開きますので、ロードされたNotebookの指示にしたが�
 実行や編集したい場合は、Notebookが開いた後、上部にある鉛筆アイコンをクリックして、`Edit Mode`にしてください。あるいは`Notebook`のList上で鉛筆アイコンを直接クリックしてください。<br/>
 ><img src="images/edit2.png" width="90%">
 ><img src="images/edit1.png" width="90%">
-
-
-<a name="OptionHandsOn"></a>
-## オプションハンズオン
-(下記はModel Biulder機能が廃止になったため実施不可です。更新予定です。)<br/>
-余力があればWatson APIではありませんがWatson Studioつながりで、Watson Machine Learningにも触れてみましょう。コーディングなしで機械学習モデルが作成できます。
-2019年6月5日に開催したDeveloper Dojo Shibuyaでのハンズオン資料です：
-### [Watson Studioで機械学習ハンズオン](https://speakerdeck.com/kyokonishito/ml-handson-with-watson-studio)
-
