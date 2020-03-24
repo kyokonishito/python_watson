@@ -22,7 +22,7 @@ Watson StudioでProjectの画面を表示してください。
 Lab１からLab3まで順に実施してください（4でLab情報を指定します）。
 > Watson StudioでProjectの画面表示ができていない場合は[Watson Studio サービスとProjectの作成](https://qiita.com/nishikyon/private/ba698b638300848b746e#4-おまけログイン後作成済projectの表示方法)を参照して表示せてください。
 
-### 1. 上のメニューから`Add to project`をクリックします。<br/>
+### 1. 上のメニューから`プロジェクトに追加`をクリックします。<br/>
 <img src="images/add_to_project.png" width="90%">
 
 ### 2.  表示された`Choose asset type`から`Notebook`をクリックします。<br/>
